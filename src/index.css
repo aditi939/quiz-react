@@ -31,9 +31,7 @@ code {
 .options{
   display: flex;
   flex-direction: column;
-  margin:6px 4px;    
-  width: 60%;
-  padding: 10px;
+  /* margin:25px 100px 75px 330px;     */
 }
 .button-style{
   box-shadow: 0px 0px 10px 1px #a2a3a3;
@@ -41,7 +39,7 @@ code {
   color: white;
   font-size: medium;
   margin: 25px 500px 75px 530px;
-  width: 40%;
+  width: 27%;
   padding: 15px;
   margin-bottom: 10px;
 }
